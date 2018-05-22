@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Li"
+  name             : "Dr Chen Li"
   avatar           : "profile.png"
   bio              : "A Scientist in Progress..."
-  location         : "Switzerland"
+  location         : "Zurich, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=bWTnc0IAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "chen.li0810@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
